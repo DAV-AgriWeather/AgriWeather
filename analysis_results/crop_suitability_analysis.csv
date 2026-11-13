@@ -1,0 +1,16 @@
+Crop_Name,Average_Forecast_Temperature_C,Average_Soil_pH,Temperature_Match,Soil_pH_Match,Match_Score,Suitability_Status
+Rice / Paddy,24.46,7.43,True,True,2/2,Suitable based on available checks
+Maize,24.46,7.43,True,False,1/2,Partially suitable
+Cotton,24.46,7.43,True,True,2/2,Suitable based on available checks
+Groundnut,24.46,7.43,True,False,1/2,Partially suitable
+Red gram / Pigeonpea,24.46,7.43,True,True,2/2,Suitable based on available checks
+Green gram / Mung bean,24.46,7.43,True,True,2/2,Suitable based on available checks
+Black gram / Urd bean,24.46,7.43,True,True,2/2,Suitable based on available checks
+Soybean,24.46,7.43,True,False,1/2,Partially suitable
+Sorghum / Jowar,24.46,7.43,True,True,2/2,Suitable based on available checks
+Sugarcane,24.46,7.43,True,True,2/2,Suitable based on available checks
+Chickpea / Bengal gram,24.46,7.43,True,True,2/2,Suitable based on available checks
+Sesame / Gingelly,24.46,7.43,True,True,2/2,Suitable based on available checks
+Sunflower,24.46,7.43,True,True,2/2,Suitable based on available checks
+Pearl millet / Bajra,24.46,7.43,True,True,2/2,Suitable based on available checks
+Finger millet / Ragi,24.46,7.43,True,True,2/2,Suitable based on available checks

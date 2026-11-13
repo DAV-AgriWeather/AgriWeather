@@ -1,0 +1,21 @@
+Land Use,Soil Depth,pH,Electrical Conductivity (dS/m),Cation Exchange Capacity (cmol(+)/kg),Organic Carbon (g/kg),Available Nitrogen (kg/ha),Available P₂O₅ (kg/ha),Available K₂O (kg/ha)
+Eucalyptus,0–20 cm,6.77,0.33,19.5,6.2,213.0,71.7,522.0
+Eucalyptus,20–40 cm,7.2,0.25,17.0,4.1,183.0,66.4,314.0
+Malabar neem,0–20 cm,7.87,0.3,17.6,5.0,179.0,60.6,439.0
+Malabar neem,20–40 cm,8.1,0.29,14.6,3.1,158.0,56.0,335.0
+Red sanders,0–20 cm,7.22,0.19,16.6,6.0,205.0,61.3,427.0
+Red sanders,20–40 cm,7.43,0.18,13.1,3.9,159.0,54.3,325.0
+Sandalwood,0–20 cm,7.06,0.19,17.0,4.7,182.0,46.4,325.0
+Sandalwood,20–40 cm,7.21,0.19,15.0,2.9,152.0,42.3,292.0
+Subabul,0–20 cm,7.4,0.31,13.1,6.1,209.0,57.2,418.0
+Subabul,20–40 cm,7.57,0.29,11.6,4.0,182.0,49.4,366.0
+Teak,0–20 cm,7.54,0.41,18.6,6.1,206.0,68.5,604.0
+Teak,20–40 cm,7.85,0.31,17.0,3.4,172.0,58.5,456.0
+Mango + Teak,0–20 cm,7.28,0.44,15.0,5.1,199.0,53.3,266.0
+Mango + Teak,20–40 cm,7.48,0.29,12.5,2.8,179.0,48.4,249.0
+Malabar neem + Sandalwood,0–20 cm,7.62,0.38,14.2,5.0,176.0,54.4,246.0
+Malabar neem + Sandalwood,20–40 cm,7.72,0.36,12.8,2.6,158.0,43.6,110.0
+Red sanders + Sandalwood,0–20 cm,7.07,0.34,14.4,4.0,140.0,40.2,431.0
+Red sanders + Sandalwood,20–40 cm,7.52,0.3,12.0,1.7,119.0,37.2,398.0
+Barren land,0–20 cm,7.19,0.27,6.0,1.4,132.0,30.4,280.0
+Barren land,20–40 cm,7.55,0.24,4.9,0.9,105.0,26.2,225.0
